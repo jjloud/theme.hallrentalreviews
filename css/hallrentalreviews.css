@@ -1,0 +1,52 @@
+#logo {
+float:none;
+}
+.section.clearfix {
+text-align: center;
+}
+
+#main-menu-links {
+    background: none repeat scroll 0 0 #85C2E7;
+    border-top-left-radius: 20px;
+    border-top-right-radius: 20px;
+}
+
+#main-menu-links a {
+background: none;
+}
+
+#main {
+background: white;
+margin-top: 0px;
+border-bottom-left-radius: 20px;
+border-bottom-right-radius: 20px;
+}
+
+#main-wrapper {
+background: #48a9e4;
+}
+
+#messages {
+padding: 0px 0px 0px 0px;
+margin: 0px;
+}
+
+.flag-wrapper {
+float: right;
+}
+
+.views-view-grid.cols-5 td {
+width: 20%;
+}
+
+/*
+#logo {
+padding-bottom: 0px;
+padding-top: 20px;
+}
+
+
+#main-menu {
+position: absolute;
+top: 185px;
+}
